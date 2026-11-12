@@ -1,0 +1,2724 @@
+{
+ "version": 1,
+ "actualizado": "2026-11-11",
+ "temas": [
+  {
+   "id": "E1",
+   "estilo": "explicador",
+   "categoria": "Mente y dinero",
+   "gancho": "Pagarías casi 63 % más por lo que armas",
+   "dato": "En el experimento de las cajas de IKEA, quienes armaron su caja ofrecieron en promedio 0,78 dólares por ella; quienes recibieron una idéntica ya armada, 0,48 dólares: casi 63 % más (62,5 %).",
+   "fuente_url": "https://www.hbs.edu/ris/Publication%20Files/11-091.pdf",
+   "fuente_nombre": "Harvard Business School, Working Paper 11-091 (Norton, Mochon y Ariely, 2011)",
+   "verificado": true,
+   "cifra": {
+    "valor": "62,5 %",
+    "etiqueta": "más ofrecían por lo armado"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "La armaron ellos",
+     "valor": 0.78
+    },
+    "b": {
+     "etiqueta": "Ya armada",
+     "valor": 0.48
+    },
+    "unidad": "dólares"
+   }
+  },
+  {
+   "id": "E2",
+   "estilo": "explicador",
+   "categoria": "Mente y dinero",
+   "gancho": "Fabricar un centavo costaba casi 4 centavos",
+   "dato": "Producir y distribuir un centavo de dólar costaba 3,69 centavos, casi cuatro veces su valor (Informe anual 2024 de la Casa de la Moneda de EE. UU.). El último centavo se acuñó en Filadelfia el 12 de noviembre de 2025.",
+   "fuente_url": "https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-27",
+   "fuente_nombre": "Reserva Federal de Richmond, Economic Brief 25-27 (2025)",
+   "verificado": true,
+   "cifra": {
+    "valor": "3,69 ¢",
+    "etiqueta": "costaba hacer un centavo"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Costo",
+     "valor": 3.69
+    },
+    "b": {
+     "etiqueta": "Valor",
+     "valor": 1
+    },
+    "unidad": "centavos"
+   }
+  },
+  {
+   "id": "E3",
+   "estilo": "explicador",
+   "categoria": "Mente y dinero",
+   "gancho": "¿Cuánto vive un billete de un dólar?",
+   "dato": "Un billete de 1 dólar dura en promedio unos 7,2 años en circulación; uno de 100 dólares, 24 años (estimaciones a mayo de 2025).",
+   "fuente_url": "https://www.uscurrency.gov/life-cycle/data/life-span",
+   "fuente_nombre": "U.S. Currency Education Program (Reserva Federal), «Life span»",
+   "verificado": true,
+   "cifra": {
+    "valor": "7,2 años",
+    "etiqueta": "vive un billete de 1 dólar"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Billete de 1",
+     "valor": 7.2
+    },
+    "b": {
+     "etiqueta": "Billete de 100",
+     "valor": 24
+    },
+    "unidad": "años"
+   }
+  },
+  {
+   "id": "E4",
+   "estilo": "explicador",
+   "categoria": "Números y planeta",
+   "gancho": "Hay 3 billones de árboles en la Tierra",
+   "dato": "Un mapeo global estimó unos 3,04 billones de árboles en el planeta (3,04 × 10¹²), y que cada año se talan más de 15.000 millones.",
+   "fuente_url": "https://europepmc.org/article/MED/26331545",
+   "fuente_nombre": "Nature (Crowther et al., 2015)",
+   "verificado": true,
+   "cifra": {
+    "valor": "3,04 billones",
+    "etiqueta": "de árboles en la Tierra"
+   }
+  },
+  {
+   "id": "E5",
+   "estilo": "explicador",
+   "categoria": "Cuerpo y vida",
+   "gancho": "Tus bacterias apenas superan a tus células",
+   "dato": "Un cuerpo de referencia de 70 kg tiene unos 38 billones de bacterias (3,8 × 10¹³) y unos 30 billones de células humanas (3,0 × 10¹³): una proporción de 1,3 a 1, no de 10 a 1 como se decía.",
+   "fuente_url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002533",
+   "fuente_nombre": "PLOS Biology (Sender, Fuchs y Milo, 2016)",
+   "verificado": true,
+   "cifra": {
+    "valor": "1,3 : 1",
+    "etiqueta": "bacterias por cada célula"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Bacterias",
+     "valor": 38
+    },
+    "b": {
+     "etiqueta": "Células humanas",
+     "valor": 30
+    },
+    "unidad": "billones"
+   }
+  },
+  {
+   "id": "E6",
+   "estilo": "explicador",
+   "categoria": "Cuerpo y vida",
+   "gancho": "Tus uñas crecen 3,47 mm al mes",
+   "dato": "Las uñas de las manos crecen en promedio 3,47 mm por mes; las de los pies, solo 1,62 mm.",
+   "fuente_url": "https://europepmc.org/article/MED/19744178",
+   "fuente_nombre": "Journal of the European Academy of Dermatology and Venereology (Yaemsiri et al., 2010)",
+   "verificado": true,
+   "cifra": {
+    "valor": "3,47 mm",
+    "etiqueta": "crecen tus uñas al mes"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Uñas de las manos",
+     "valor": 3.47
+    },
+    "b": {
+     "etiqueta": "Uñas de los pies",
+     "valor": 1.62
+    },
+    "unidad": "mm por mes"
+   }
+  },
+  {
+   "id": "E7",
+   "estilo": "explicador",
+   "categoria": "Mente y dinero",
+   "gancho": "El famoso efecto de las mermeladas casi desaparece",
+   "dato": "Un metaanálisis de 50 experimentos (63 condiciones, 5.036 personas) encontró que el efecto promedio de «demasiadas opciones» es prácticamente cero, aunque varía mucho entre estudios.",
+   "fuente_url": "https://scheibehenne.com/ScheibehenneGreifenederTodd2010.pdf",
+   "fuente_nombre": "Journal of Consumer Research (Scheibehenne, Greifeneder y Todd, 2010)",
+   "verificado": true,
+   "cifra": {
+    "valor": "≈ 0",
+    "etiqueta": "efecto en 50 experimentos"
+   }
+  },
+  {
+   "id": "E8",
+   "estilo": "explicador",
+   "categoria": "Espacio",
+   "gancho": "Ves el Sol como era hace 8 minutos",
+   "dato": "La luz del Sol tarda en promedio 8 minutos y 20 segundos (8 ⅓ min) en recorrer los 150 millones de km que nos separan.",
+   "fuente_url": "https://scied.ucar.edu/learning-zone/earth-system/energy-from-sun",
+   "fuente_nombre": "UCAR Center for Science Education (NCAR)",
+   "verificado": true,
+   "cifra": {
+    "valor": "8 min 20 s",
+    "etiqueta": "tarda la luz del Sol"
+   }
+  },
+  {
+   "id": "E9",
+   "estilo": "explicador",
+   "categoria": "Espacio",
+   "gancho": "En Venus un día dura más que un año",
+   "dato": "Venus tarda 243 días terrestres en girar una vez sobre sí mismo, pero solo 225 en dar la vuelta al Sol.",
+   "fuente_url": "https://science.nasa.gov/venus/venus-facts/",
+   "fuente_nombre": "NASA Science, «Venus: Facts»",
+   "verificado": true,
+   "cifra": {
+    "valor": "243 días",
+    "etiqueta": "dura un día en Venus"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Un día (rotación)",
+     "valor": 243
+    },
+    "b": {
+     "etiqueta": "Un año (órbita)",
+     "valor": 225
+    },
+    "unidad": "días terrestres"
+   }
+  },
+  {
+   "id": "E10",
+   "estilo": "explicador",
+   "categoria": "Espacio",
+   "gancho": "El Sol pesa casi todo el sistema solar",
+   "dato": "El Sol concentra el 99,8 % de toda la masa del sistema solar; planetas, lunas y asteroides se reparten el 0,2 % restante.",
+   "fuente_url": "https://science.nasa.gov/sun/facts/",
+   "fuente_nombre": "NASA Science, «Sun: Facts»",
+   "verificado": true,
+   "cifra": {
+    "valor": "99,8 %",
+    "etiqueta": "de la masa del sistema solar"
+   }
+  },
+  {
+   "id": "E11",
+   "estilo": "explicador",
+   "categoria": "Espacio",
+   "gancho": "Ahora mismo viajas a unos 107.000 km/h",
+   "dato": "La Tierra gira alrededor del Sol a una velocidad media de 29,78 km/s: unos 107.200 km/h, y tú vas con ella.",
+   "fuente_url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html",
+   "fuente_nombre": "NASA Goddard (NSSDC), «Earth Fact Sheet»",
+   "verificado": true,
+   "cifra": {
+    "valor": "107.200 km/h",
+    "etiqueta": "viaja la Tierra alrededor del Sol"
+   }
+  },
+  {
+   "id": "E12",
+   "estilo": "explicador",
+   "categoria": "Espacio",
+   "gancho": "Doblado 42 veces, un papel llegaría a la Luna",
+   "dato": "Una hoja de 0,1 mm doblada 42 veces tendría 0,1 mm × 2⁴² ≈ 439.800 km de grosor, más que los 384.400 km que hay en promedio hasta la Luna.",
+   "fuente_url": "https://science.nasa.gov/moon/facts/",
+   "fuente_nombre": "NASA Science, «Moon: Facts» (distancia); el resto es cálculo",
+   "verificado": true,
+   "cifra": {
+    "valor": "42 dobleces",
+    "etiqueta": "para llegar a la Luna"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Papel doblado 42 veces",
+     "valor": 439804
+    },
+    "b": {
+     "etiqueta": "Distancia a la Luna",
+     "valor": 384400
+    },
+    "unidad": "km"
+   }
+  },
+  {
+   "id": "E13",
+   "estilo": "explicador",
+   "categoria": "Números y planeta",
+   "gancho": "Junta 23 personas: probablemente dos cumplen el mismo día",
+   "dato": "Con solo 23 personas, la probabilidad de que al menos dos compartan cumpleaños ya supera el 50 % (es de 50,7 %).",
+   "fuente_url": "https://mathworld.wolfram.com/BirthdayProblem.html",
+   "fuente_nombre": "Wolfram MathWorld, «Birthday Problem»",
+   "verificado": true,
+   "cifra": {
+    "valor": "50,7 %",
+    "etiqueta": "con solo 23 personas"
+   }
+  },
+  {
+   "id": "E14",
+   "estilo": "explicador",
+   "categoria": "Números y planeta",
+   "gancho": "En muchos datos reales, el 30 % empieza con 1",
+   "dato": "Ley de Benford: en muchas listas de datos reales, el primer dígito es 1 en cerca del 30,1 % de los casos (log₁₀ 2), y el 9 solo en un 4,6 %.",
+   "fuente_url": "https://mathworld.wolfram.com/BenfordsLaw.html",
+   "fuente_nombre": "Wolfram MathWorld, «Benford's Law»",
+   "verificado": true,
+   "cifra": {
+    "valor": "30,1 %",
+    "etiqueta": "empiezan con el dígito 1"
+   }
+  },
+  {
+   "id": "E15",
+   "estilo": "explicador",
+   "categoria": "Números y planeta",
+   "gancho": "Tu mazo barajado probablemente nunca existió antes",
+   "dato": "Un mazo de 52 cartas puede ordenarse de 52! maneras: unos 8,07 × 10⁶⁷, un número de 68 cifras. Por eso es casi seguro que un buen barajado nunca se repitió en la historia.",
+   "fuente_url": "https://oeis.org/A000142/b000142.txt",
+   "fuente_nombre": "OEIS A000142 (tabla de factoriales n!)",
+   "verificado": true,
+   "cifra": {
+    "valor": "8 × 10⁶⁷",
+    "etiqueta": "órdenes posibles del mazo"
+   }
+  },
+  {
+   "id": "E16",
+   "estilo": "explicador",
+   "categoria": "Mente y dinero",
+   "gancho": "Tu memoria inmediata no guarda 7 cosas, sino 4",
+   "dato": "Una revisión de la evidencia concluyó que la memoria a corto plazo tiene un límite central de unos 4 «bloques» de información, no los 7 que había propuesto Miller en 1956.",
+   "fuente_url": "https://europepmc.org/article/MED/11515286",
+   "fuente_nombre": "Behavioral and Brain Sciences (Cowan, 2001)",
+   "verificado": true,
+   "cifra": {
+    "valor": "4",
+    "etiqueta": "cosas a la vez"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Lo que se creía (Miller)",
+     "valor": 7
+    },
+    "b": {
+     "etiqueta": "Lo que se mide hoy",
+     "valor": 4
+    },
+    "unidad": "elementos"
+   }
+  },
+  {
+   "id": "E17",
+   "estilo": "explicador",
+   "categoria": "Mente y dinero",
+   "gancho": "Una ruleta cambió lo que respondían sobre África",
+   "dato": "En un experimento clásico, una ruleta marcaba 10 o 65 antes de preguntar qué porcentaje de países de la ONU eran africanos: la mediana de las respuestas fue 25 % con el 10 y 45 % con el 65.",
+   "fuente_url": "https://sites.stat.washington.edu/peter/498.Sp16/Tversky.pdf",
+   "fuente_nombre": "Science (Tversky y Kahneman, 1974), copia del artículo en la Universidad de Washington",
+   "verificado": true,
+   "cifra": {
+    "valor": "25 % vs 45 %",
+    "etiqueta": "según el número de la ruleta"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Ruleta en 10",
+     "valor": 25
+    },
+    "b": {
+     "etiqueta": "Ruleta en 65",
+     "valor": 45
+    },
+    "unidad": "% estimado (mediana)"
+   }
+  },
+  {
+   "id": "E18",
+   "estilo": "explicador",
+   "categoria": "Cuerpo y vida",
+   "gancho": "Tu intestino no mide una cancha de tenis",
+   "dato": "Los libros decían que el tubo digestivo tenía 260 a 300 m² de superficie, como una cancha de tenis; medido de nuevo, son unos 32 m²: la mitad de una cancha de bádminton.",
+   "fuente_url": "https://europepmc.org/article/MED/24694282",
+   "fuente_nombre": "Scandinavian Journal of Gastroenterology (Helander y Fändriks, 2014)",
+   "verificado": true,
+   "cifra": {
+    "valor": "32 m²",
+    "etiqueta": "mide por dentro tu intestino"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Lo que decían los libros (mín.)",
+     "valor": 260
+    },
+    "b": {
+     "etiqueta": "Medición nueva",
+     "valor": 32
+    },
+    "unidad": "m²"
+   }
+  },
+  {
+   "id": "E19",
+   "estilo": "explicador",
+   "categoria": "Cuerpo y vida",
+   "gancho": "Cada glóbulo rojo vive unos cuatro meses",
+   "dato": "Un glóbulo rojo humano vive en promedio unos 120 días antes de ser retirado de la sangre y reemplazado.",
+   "fuente_url": "https://europepmc.org/article/MED/34342697",
+   "fuente_nombre": "Annals of Hematology (Vives Corrons et al., 2021)",
+   "verificado": true,
+   "cifra": {
+    "valor": "120 días",
+    "etiqueta": "vive un glóbulo rojo"
+   }
+  },
+  {
+   "id": "E20",
+   "estilo": "explicador",
+   "categoria": "Cuerpo y vida",
+   "gancho": "Tu ADN es 99,6 % igual al de cualquiera",
+   "dato": "Los genomas de dos personas cualesquiera son, en promedio, un 99,6 % idénticos. El famoso 99,9 % solo cuenta cambios de una letra y deja fuera variantes más grandes.",
+   "fuente_url": "https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genomic-variation",
+   "fuente_nombre": "NHGRI (Institutos Nacionales de Salud de EE. UU.), «Human Genomic Variation»",
+   "verificado": true,
+   "cifra": {
+    "valor": "99,6 %",
+    "etiqueta": "idéntico a cualquier persona"
+   }
+  },
+  {
+   "id": "E21",
+   "estilo": "explicador",
+   "categoria": "Cuerpo y vida",
+   "gancho": "El hueso más pequeño del cuerpo mide 3 mm",
+   "dato": "El estribo, en el oído medio, es el hueso más pequeño del cuerpo: en un estudio con tomografías y huesos de cadáver, su altura total promedio fue de 3,17 mm.",
+   "fuente_url": "https://europepmc.org/article/MED/35371655",
+   "fuente_nombre": "Cureus (Jain et al., 2022)",
+   "verificado": true,
+   "cifra": {
+    "valor": "3,17 mm",
+    "etiqueta": "mide el estribo"
+   }
+  },
+  {
+   "id": "E22",
+   "estilo": "explicador",
+   "categoria": "Cuerpo y vida",
+   "gancho": "Tienes 206 huesos, pero naciste con unos 270",
+   "dato": "Un bebé suele nacer con unos 270 huesos que, al crecer, se van uniendo; un adulto tiene entre 206 y 213.",
+   "fuente_url": "https://my.clevelandclinic.org/health/body/25176-bones",
+   "fuente_nombre": "Cleveland Clinic, «Bones»",
+   "verificado": true,
+   "cifra": {
+    "valor": "270",
+    "etiqueta": "huesos al nacer"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Al nacer",
+     "valor": 270
+    },
+    "b": {
+     "etiqueta": "De adulto",
+     "valor": 206
+    },
+    "unidad": "huesos"
+   }
+  },
+  {
+   "id": "E23",
+   "estilo": "explicador",
+   "categoria": "Números y planeta",
+   "gancho": "Un rayo arde más que la superficie del Sol",
+   "dato": "Un rayo puede calentar el aire que atraviesa hasta 50.000 °F (unos 27.760 °C): cinco veces más que la superficie del Sol.",
+   "fuente_url": "https://www.weather.gov/safety/lightning-temperature",
+   "fuente_nombre": "Servicio Meteorológico Nacional de EE. UU. (NOAA/NWS)",
+   "verificado": true,
+   "cifra": {
+    "valor": "27.760 °C",
+    "etiqueta": "puede alcanzar un rayo"
+   }
+  },
+  {
+   "id": "E24",
+   "estilo": "explicador",
+   "categoria": "Números y planeta",
+   "gancho": "Casi toda el agua de la Tierra es salada",
+   "dato": "Solo el 2,5 % del agua de la Tierra es dulce; el resto es salada, casi toda en los océanos. Y de esa agua dulce, la mayor parte está congelada.",
+   "fuente_url": "https://www.usgs.gov/special-topics/water-science-school/science/where-earths-water",
+   "fuente_nombre": "USGS Water Science School, «Where is Earth's Water?»",
+   "verificado": true,
+   "cifra": {
+    "valor": "2,5 %",
+    "etiqueta": "del agua es dulce"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Salada",
+     "valor": 97.5
+    },
+    "b": {
+     "etiqueta": "Dulce",
+     "valor": 2.5
+    },
+    "unidad": "%"
+   }
+  },
+  {
+   "id": "E25",
+   "estilo": "explicador",
+   "categoria": "Números y planeta",
+   "gancho": "Todo el oro extraído cabe en un cubo",
+   "dato": "En toda la historia se han extraído unas 222.600 toneladas de oro; fundidas juntas, formarían un cubo de solo 22,6 m de lado.",
+   "fuente_url": "https://www.gold.org/goldhub/data/how-much-gold",
+   "fuente_nombre": "World Gold Council, «How much gold has been mined?» (2026)",
+   "verificado": true,
+   "cifra": {
+    "valor": "22,6 m",
+    "etiqueta": "de lado tendría el cubo"
+   }
+  },
+  {
+   "id": "E26",
+   "estilo": "explicador",
+   "categoria": "Cuerpo y vida",
+   "gancho": "El pulpo tiene tres corazones y sangre azul",
+   "dato": "El pulpo tiene tres corazones: dos bombean sangre a las branquias y uno al resto del cuerpo. Su sangre es azul porque transporta el oxígeno con hemocianina, una proteína con cobre.",
+   "fuente_url": "https://www.pbs.org/wnet/nature/group/other-species/octopus/",
+   "fuente_nombre": "PBS Nature, «Octopus»",
+   "verificado": true,
+   "cifra": {
+    "valor": "3",
+    "etiqueta": "corazones tiene un pulpo"
+   }
+  },
+  {
+   "id": "E27",
+   "estilo": "explicador",
+   "categoria": "Números y planeta",
+   "gancho": "Los chips duplicaban sus transistores cada dos años",
+   "dato": "En 1965 Gordon Moore predijo que los transistores de un chip se duplicarían cada año; en 1975 corrigió su predicción a cada dos años. Eso es la Ley de Moore.",
+   "fuente_url": "https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html",
+   "fuente_nombre": "Intel Newsroom, «Moore's Law»",
+   "verificado": true,
+   "cifra": {
+    "valor": "×2",
+    "etiqueta": "cada dos años"
+   }
+  },
+  {
+   "id": "E28",
+   "estilo": "explicador",
+   "categoria": "Mente y dinero",
+   "gancho": "El primer código UPC escaneado fue un chicle",
+   "dato": "El 26 de junio de 1974, a las 8:06, en un supermercado Marsh de Troy (Ohio, EE. UU.), se escaneó el primer producto con código de barras UPC: un paquete de 10 chicles Juicy Fruit de Wrigley's.",
+   "fuente_url": "https://www.computerworld.com/article/1550613/35-years-later-bar-codes-and-scanning-are-everywhere.html",
+   "fuente_nombre": "Computerworld, «35 years later, bar codes and scanning are everywhere» (2009)",
+   "verificado": true,
+   "cifra": {
+    "valor": "1974",
+    "etiqueta": "primer escaneo en caja"
+   }
+  },
+  {
+   "id": "E29",
+   "estilo": "explicador",
+   "categoria": "Mente y dinero",
+   "gancho": "Un billete de 100 dólares cuesta 11,3 centavos",
+   "dato": "En 2025, imprimir cada billete de 100 dólares costó 11,3 centavos en papel, tinta, mano de obra y gastos directos; uno de 1 dólar, 4,1 centavos.",
+   "fuente_url": "https://www.federalreserve.gov/faqs/currency_12771.htm",
+   "fuente_nombre": "Reserva Federal de EE. UU., «How much does it cost to produce currency and coin?»",
+   "verificado": true,
+   "cifra": {
+    "valor": "11,3 ¢",
+    "etiqueta": "cuesta imprimir 100 dólares"
+   },
+   "comparacion": {
+    "a": {
+     "etiqueta": "Billete de 100",
+     "valor": 11.3
+    },
+    "b": {
+     "etiqueta": "Billete de 1",
+     "valor": 4.1
+    },
+    "unidad": "centavos"
+   }
+  },
+  {
+   "id": "E30",
+   "estilo": "explicador",
+   "categoria": "Espacio",
+   "gancho": "La Luna se aleja de nosotros cada año",
+   "dato": "Gracias a los espejos que dejó el programa Apolo, los láseres miden que la Luna se aleja de la Tierra 3,8 cm por año.",
+   "fuente_url": "https://jpl.nasa.gov/news/the-apollo-experiment-that-keeps-on-giving/",
+   "fuente_nombre": "NASA JPL, «The Apollo Experiment That Keeps On Giving»",
+   "verificado": true,
+   "cifra": {
+    "valor": "3,8 cm",
+    "etiqueta": "se aleja la Luna por año"
+   }
+  },
+  {
+   "id": "P1",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "Cómo calienta tu comida el microondas",
+   "dato": "El magnetrón del microondas produce ondas de 2,45 GHz que hacen vibrar las moléculas de agua de la comida; esa vibración genera el calor que la cocina.",
+   "fuente_url": "https://www.bfs.de/EN/topics/emf/hff/sources/microwave/microwave.html",
+   "fuente_nombre": "BfS (Oficina Federal de Protección Radiológica de Alemania)",
+   "verificado": true,
+   "cifra": {
+    "valor": "2,45 GHz",
+    "etiqueta": "frecuencia del microondas"
+   },
+   "pasos": [
+    "El magnetrón produce microondas de 2,45 GHz",
+    "Las ondas llegan a la comida",
+    "Hacen vibrar las moléculas de agua",
+    "La vibración genera calor y cocina"
+   ]
+  },
+  {
+   "id": "P2",
+   "estilo": "pizarra",
+   "categoria": "Cielo y luz",
+   "gancho": "Por qué el cielo es azul",
+   "dato": "La luz del Sol choca con los gases y partículas del aire y se dispersa en todas direcciones; la azul se dispersa más porque viaja en ondas más cortas.",
+   "fuente_url": "https://spaceplace.nasa.gov/blue-sky/",
+   "fuente_nombre": "NASA Space Place",
+   "verificado": true,
+   "cifra": {
+    "valor": "ondas cortas",
+    "etiqueta": "la luz azul se dispersa más"
+   },
+   "pasos": [
+    "Llega la luz blanca del Sol",
+    "Choca con los gases del aire",
+    "El azul, de onda corta, se dispersa más",
+    "Vemos azul en todo el cielo"
+   ]
+  },
+  {
+   "id": "P3",
+   "estilo": "pizarra",
+   "categoria": "Física de todos los días",
+   "gancho": "La explicación del ala que te enseñaron es falsa",
+   "dato": "La teoría del «tiempo de tránsito igual» es falsa: el aire de arriba llega al borde de salida antes que el de abajo. La sustentación viene de que el ala desvía (gira) el flujo de aire.",
+   "fuente_url": "https://www.grc.nasa.gov/WWW/K-12/VirtualAero/BottleRocket/airplane/wrong1.html",
+   "fuente_nombre": "NASA Glenn Research Center",
+   "verificado": true,
+   "cifra": {
+    "valor": "giro del flujo",
+    "etiqueta": "lo que de verdad levanta el ala"
+   },
+   "pasos": [
+    "Te enseñaron: arriba hay más camino",
+    "Falso: el aire de arriba llega antes",
+    "El ala inclinada desvía el flujo",
+    "Ese giro del aire genera sustentación"
+   ]
+  },
+  {
+   "id": "P4",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "Dentro de tu reloj vibra un cristal",
+   "dato": "En un reloj de cuarzo, el cristal vibra normalmente a 32.768 Hz; el circuito divide esa frecuencia entre 32.768 para obtener un «tic» por segundo.",
+   "fuente_url": "https://www.nist.gov/pml/time-and-frequency-division/timekeeping-and-clocks-faqs",
+   "fuente_nombre": "NIST (Instituto Nacional de Estándares y Tecnología, EE. UU.)",
+   "verificado": true,
+   "cifra": {
+    "valor": "32.768 Hz",
+    "etiqueta": "vibraciones por segundo del cuarzo"
+   },
+   "pasos": [
+    "Un cristal de cuarzo va en un circuito",
+    "Vibra 32.768 veces por segundo",
+    "El circuito cuenta y divide entre 32.768",
+    "Sale exactamente un pulso por segundo"
+   ]
+  },
+  {
+   "id": "P5",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "Cómo sabe tu GPS dónde estás",
+   "dato": "Tu receptor escucha las señales de los satélites GPS (hay más de 30 en órbita) y calcula su distancia a 4 o más de ellos; con eso sabe exactamente dónde estás.",
+   "fuente_url": "https://spaceplace.nasa.gov/gps/",
+   "fuente_nombre": "NASA Space Place",
+   "verificado": true,
+   "cifra": {
+    "valor": "4 satélites",
+    "etiqueta": "mínimo para ubicarte"
+   },
+   "pasos": [
+    "Los satélites envían señales sin parar",
+    "Tu celular escucha a varios satélites",
+    "Calcula su distancia a 4 o más",
+    "Con eso ubica tu posición exacta"
+   ]
+  },
+  {
+   "id": "P6",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "Internet viaja por cables en el fondo del mar",
+   "dato": "Más del 99 % del tráfico internacional de datos viaja por unos 500 cables submarinos que suman más de 1,7 millones de km.",
+   "fuente_url": "https://www.itu.int/en/mediacentre/Pages/PR-2025-02-27-submarine-cables-summit-nigeria.aspx",
+   "fuente_nombre": "UIT (Unión Internacional de Telecomunicaciones, ONU)",
+   "verificado": true,
+   "cifra": {
+    "valor": "más del 99 %",
+    "etiqueta": "del tráfico internacional va por cables submarinos"
+   },
+   "pasos": [
+    "Envías un mensaje a otro país",
+    "Tus datos llegan a la costa",
+    "Cruzan el océano por un cable",
+    "Salen en la otra costa y llegan"
+   ]
+  },
+  {
+   "id": "P7",
+   "estilo": "pizarra",
+   "categoria": "Cielo y luz",
+   "gancho": "Cómo se forma un arcoíris",
+   "dato": "La luz se refracta al entrar en cada gota, se refleja en su interior y vuelve a desviarse al salir, separando los colores; sale con un ángulo de 42°.",
+   "fuente_url": "https://www.weather.gov/fgz/Rainbow",
+   "fuente_nombre": "NOAA National Weather Service (Flagstaff)",
+   "verificado": true,
+   "cifra": {
+    "valor": "42°",
+    "etiqueta": "ángulo del arcoíris"
+   },
+   "pasos": [
+    "La luz del Sol entra en la gota",
+    "Se refracta y se separa en colores",
+    "Rebota dentro de la gota",
+    "Sale hacia ti a 42°"
+   ]
+  },
+  {
+   "id": "P8",
+   "estilo": "pizarra",
+   "categoria": "Agua y clima",
+   "gancho": "Por qué el mar es salado",
+   "dato": "La lluvia, un poco ácida, desgasta las rocas y los ríos llevan esos minerales al mar; también aportan sales las fuentes hidrotermales del fondo. El agua de mar tiene cerca de 3,5 % de sal.",
+   "fuente_url": "https://oceanservice.noaa.gov/facts/whysalty.html",
+   "fuente_nombre": "NOAA Ocean Service",
+   "verificado": true,
+   "cifra": {
+    "valor": "3,5 %",
+    "etiqueta": "de sal en el agua de mar"
+   },
+   "pasos": [
+    "La lluvia, algo ácida, desgasta las rocas",
+    "Se liberan minerales",
+    "Los ríos los llevan al mar",
+    "El mar acumula sal: 3,5 %"
+   ]
+  },
+  {
+   "id": "P9",
+   "estilo": "pizarra",
+   "categoria": "Agua y clima",
+   "gancho": "Cómo la Luna mueve los océanos",
+   "dato": "La gravedad de la Luna atrae el agua y forma un abultamiento del lado que la mira; del lado opuesto la inercia forma otro. Por eso hay 2 mareas altas y 2 bajas cada 24 h 50 min.",
+   "fuente_url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides05_lunarday.html",
+   "fuente_nombre": "NOAA Ocean Service",
+   "verificado": true,
+   "cifra": {
+    "valor": "2 mareas altas",
+    "etiqueta": "cada 24 h 50 min"
+   },
+   "pasos": [
+    "La Luna atrae el agua hacia ella",
+    "Se forma un abultamiento de cada lado",
+    "La Tierra gira debajo de ellos",
+    "Dos mareas altas cada 24 h 50 min"
+   ]
+  },
+  {
+   "id": "P10",
+   "estilo": "pizarra",
+   "categoria": "Cielo y luz",
+   "gancho": "Las estaciones no dependen de la distancia al Sol",
+   "dato": "Las estaciones se deben a que el eje de la Tierra está inclinado en promedio 23,5°, no a lo lejos o cerca que esté del Sol.",
+   "fuente_url": "https://www.weather.gov/fsd/season",
+   "fuente_nombre": "NOAA National Weather Service (Sioux Falls)",
+   "verificado": true,
+   "cifra": {
+    "valor": "23,5°",
+    "etiqueta": "inclinación del eje terrestre"
+   },
+   "pasos": [
+    "El eje de la Tierra está inclinado",
+    "Un hemisferio recibe el Sol más directo",
+    "Ahí es verano; en el otro, invierno",
+    "Medio año después se invierte"
+   ]
+  },
+  {
+   "id": "P11",
+   "estilo": "pizarra",
+   "categoria": "Agua y clima",
+   "gancho": "Cómo saber a qué distancia cayó un rayo",
+   "dato": "Cuenta los segundos entre el relámpago y el trueno y divídelos entre 3: el resultado es la distancia aproximada en kilómetros.",
+   "fuente_url": "https://www.noaa.gov/jetstream/lightning-safety",
+   "fuente_nombre": "NOAA JetStream",
+   "verificado": true,
+   "cifra": {
+    "valor": "1 km cada 3 s",
+    "etiqueta": "regla del trueno"
+   },
+   "pasos": [
+    "Ves el relámpago casi al instante",
+    "El sonido del trueno tarda más",
+    "Cuentas los segundos hasta oírlo",
+    "Divides entre 3: son kilómetros"
+   ]
+  },
+  {
+   "id": "P12",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "Cómo sabe la pantalla dónde tocas",
+   "dato": "La pantalla tiene una cuadrícula transparente de filas y columnas; tu dedo, que conduce electricidad, cambia la capacitancia en un cruce y el controlador detecta en cuál.",
+   "fuente_url": "https://www.renesas.com/en/document/whp/capacitive-touch-solutions-wearable-applications",
+   "fuente_nombre": "Renesas (fabricante de controladores táctiles), white paper",
+   "verificado": true,
+   "cifra": {
+    "valor": "filas × columnas",
+    "etiqueta": "cada cruce detecta tu dedo"
+   },
+   "pasos": [
+    "Una cuadrícula invisible cubre la pantalla",
+    "Cada cruce tiene su propia capacitancia",
+    "Tu dedo cambia la de un cruce",
+    "El chip detecta qué cruce cambió"
+   ]
+  },
+  {
+   "id": "P13",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "El refrigerador no enfría: saca el calor",
+   "dato": "El refrigerante se evapora en los tubos de adentro y absorbe el calor de la comida; el compresor lo comprime y lo calienta, y en los serpentines de atrás suelta ese calor a la cocina.",
+   "fuente_url": "https://courses.ems.psu.edu/egee102/node/2402",
+   "fuente_nombre": "Penn State University, curso EGEE 102",
+   "verificado": true,
+   "cifra": {
+    "valor": "mueve el calor",
+    "etiqueta": "de adentro hacia la cocina"
+   },
+   "pasos": [
+    "El refrigerante se evapora adentro",
+    "Absorbe el calor de la comida",
+    "El compresor lo comprime y calienta",
+    "Atrás suelta el calor a la cocina"
+   ]
+  },
+  {
+   "id": "P14",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "Un QR dañado todavía funciona",
+   "dato": "El QR trae corrección de errores: con el nivel H recupera alrededor del 30 % de sus datos aunque esté sucio o dañado. El más grande guarda hasta 7.089 números.",
+   "fuente_url": "https://www.qrcode.com/en/about/error_correction.html",
+   "fuente_nombre": "DENSO WAVE (creador del código QR)",
+   "verificado": true,
+   "cifra": {
+    "valor": "~30 %",
+    "etiqueta": "de daño que el QR puede recuperar"
+   },
+   "pasos": [
+    "El QR guarda datos de reserva",
+    "Una parte se ensucia o se rompe",
+    "El lector usa los datos de reserva",
+    "Recupera hasta ~30 % de lo dañado"
+   ]
+  },
+  {
+   "id": "P15",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "Por qué una bombilla LED gasta tan poco",
+   "dato": "Una bombilla incandescente suelta el 90 % de su energía como calor; un LED produce luz hasta un 90 % más eficientemente, haciendo pasar corriente por un microchip.",
+   "fuente_url": "https://www.energystar.gov/products/lighting_fans/light_bulbs/learn_about_led_bulbs",
+   "fuente_nombre": "ENERGY STAR (EPA / DOE, EE. UU.)",
+   "verificado": true,
+   "cifra": {
+    "valor": "90 %",
+    "etiqueta": "de la energía que la incandescente pierde en calor"
+   },
+   "pasos": [
+    "La incandescente gasta 90 % en calor",
+    "El LED pasa corriente por un microchip",
+    "El chip enciende diminutos LED",
+    "Da luz hasta 90 % más eficiente"
+   ]
+  },
+  {
+   "id": "P16",
+   "estilo": "pizarra",
+   "categoria": "Física de todos los días",
+   "gancho": "Cómo flota un barco de miles de toneladas",
+   "dato": "Todo objeto en el agua recibe un empuje igual al peso del agua que desplaza; el casco hueco desplaza muchísima agua, así que el barco flota porque su densidad promedio es menor que la del agua.",
+   "fuente_url": "https://openstax.org/books/college-physics-ap-courses-2e/pages/11-7-archimedes-principle",
+   "fuente_nombre": "OpenStax College Physics (Rice University)",
+   "verificado": true,
+   "cifra": {
+    "valor": "empuje = peso del agua desplazada",
+    "etiqueta": "principio de Arquímedes"
+   },
+   "pasos": [
+    "El casco aparta mucha agua",
+    "El agua empuja el barco hacia arriba",
+    "Empuje = peso del agua desplazada",
+    "Densidad promedio menor: el barco flota"
+   ]
+  },
+  {
+   "id": "P17",
+   "estilo": "pizarra",
+   "categoria": "Agua y clima",
+   "gancho": "Por qué el hielo flota",
+   "dato": "Al congelarse, las moléculas de agua se ordenan en una red que ocupa más espacio: la densidad baja cerca de un 9 % y por eso el hielo flota.",
+   "fuente_url": "https://www.usgs.gov/special-topics/water-science-school/science/water-density",
+   "fuente_nombre": "USGS Water Science School",
+   "verificado": true,
+   "cifra": {
+    "valor": "~9 %",
+    "etiqueta": "menos denso que el agua líquida"
+   },
+   "pasos": [
+    "El agua líquida está desordenada",
+    "Al congelarse forma una red ordenada",
+    "La red ocupa más espacio",
+    "Menos densa: el hielo flota"
+   ]
+  },
+  {
+   "id": "P18",
+   "estilo": "pizarra",
+   "categoria": "Agua y clima",
+   "gancho": "Cómo nace un huracán",
+   "dato": "Necesita agua de mar de al menos 26,5 °C en los primeros 50 m: el aire cálido y húmedo sube, deja baja presión debajo y forma nubes y tormentas que se organizan y giran.",
+   "fuente_url": "https://oceanservice.noaa.gov/facts/how-hurricanes-form.html",
+   "fuente_nombre": "NOAA Ocean Service",
+   "verificado": true,
+   "cifra": {
+    "valor": "26,5 °C",
+    "etiqueta": "temperatura mínima del mar"
+   },
+   "pasos": [
+    "El mar a 26,5 °C calienta el aire",
+    "El aire húmedo sube",
+    "Abajo queda una zona de baja presión",
+    "Nubes y tormentas se organizan y giran"
+   ]
+  },
+  {
+   "id": "P19",
+   "estilo": "pizarra",
+   "categoria": "Física de todos los días",
+   "gancho": "El secreto del termo es el vacío",
+   "dato": "Un termo son dos recipientes, uno dentro del otro, con un vacío parcial entre ambos y una capa plateada que reduce la pérdida de calor. James Dewar lo creó en 1892.",
+   "fuente_url": "https://www.rigb.org/node/3131",
+   "fuente_nombre": "Royal Institution (Londres)",
+   "verificado": true,
+   "cifra": {
+    "valor": "1892",
+    "etiqueta": "Dewar inventa el termo"
+   },
+   "pasos": [
+    "Dos recipientes, uno dentro del otro",
+    "Entre ellos casi no hay aire",
+    "Una capa plateada frena el calor",
+    "Lo de adentro conserva su temperatura"
+   ]
+  },
+  {
+   "id": "P20",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "Cómo viaja el wifi por el aire",
+   "dato": "Tu router envía y recibe datos por radio en las bandas de 2,4 y 5 GHz; los equipos más nuevos también usan la de 6 GHz.",
+   "fuente_url": "https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-6",
+   "fuente_nombre": "Wi-Fi Alliance",
+   "verificado": true,
+   "cifra": {
+    "valor": "2,4 y 5 GHz",
+    "etiqueta": "bandas del wifi"
+   },
+   "pasos": [
+    "El router convierte datos en ondas de radio",
+    "Las ondas viajan por el aire",
+    "Tu celular las capta con su antena",
+    "Las vuelve a convertir en datos"
+   ]
+  },
+  {
+   "id": "P21",
+   "estilo": "pizarra",
+   "categoria": "Física de todos los días",
+   "gancho": "Por qué explotan las palomitas",
+   "dato": "El grano funciona como una olla a presión: el agua de adentro se vuelve vapor y, a unos 180 °C, la cáscara revienta. El «pop» es el vapor de agua que escapa.",
+   "fuente_url": "https://royalsociety.org/blog/2015/02/the-science-of-popcorn",
+   "fuente_nombre": "Royal Society (sobre Virot y Ponomarenko, J. R. Soc. Interface, 2015)",
+   "verificado": true,
+   "cifra": {
+    "valor": "~180 °C",
+    "etiqueta": "temperatura a la que revienta el grano"
+   },
+   "pasos": [
+    "El calor vuelve vapor el agua del grano",
+    "La presión crece adentro",
+    "A ~180 °C la cáscara revienta",
+    "El vapor que escapa hace «pop»"
+   ]
+  },
+  {
+   "id": "P22",
+   "estilo": "pizarra",
+   "categoria": "Física de todos los días",
+   "gancho": "Por qué la cebolla te hace llorar",
+   "dato": "Al cortarla, la enzima alinasa rompe un compuesto de la cebolla y otra enzima, la LFS (descubierta en 2002), lo transforma en un gas irritante que te hace llorar.",
+   "fuente_url": "https://www2.kek.jp/imss/pf/science/publ/pfhl/2019/19hl4_3.pdf",
+   "fuente_nombre": "KEK Photon Factory (Japón), Highlights 2019",
+   "verificado": true,
+   "cifra": {
+    "valor": "2 enzimas",
+    "etiqueta": "alinasa + LFS"
+   },
+   "pasos": [
+    "Cortas la cebolla y rompes células",
+    "La alinasa rompe un compuesto azufrado",
+    "La enzima LFS fabrica un gas irritante",
+    "El gas te hace llorar"
+   ]
+  },
+  {
+   "id": "P23",
+   "estilo": "pizarra",
+   "categoria": "Física de todos los días",
+   "gancho": "Un punto más de magnitud no es poca cosa",
+   "dato": "Cada número entero que sube la magnitud de un sismo significa ondas 10 veces más grandes en el sismógrafo y unas 32 veces más energía liberada.",
+   "fuente_url": "https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity",
+   "fuente_nombre": "USGS Earthquake Hazards Program",
+   "verificado": true,
+   "cifra": {
+    "valor": "32 veces",
+    "etiqueta": "más energía por cada punto"
+   },
+   "pasos": [
+    "El sismógrafo mide la amplitud de ondas",
+    "Un punto más: amplitud × 10",
+    "Un punto más: energía × 32",
+    "La escala multiplica, no suma"
+   ]
+  },
+  {
+   "id": "P24",
+   "estilo": "pizarra",
+   "categoria": "Tecnología en casa",
+   "gancho": "Cómo un panel solar convierte luz en electricidad",
+   "dato": "El semiconductor del panel, casi siempre silicio, absorbe la luz y le pasa esa energía a los electrones, que salen como corriente. Los mejores paneles comerciales convierten entre 18 y 22 % de la luz.",
+   "fuente_url": "https://www.energy.gov/eere/solar/articles/pv-cells-101-primer-solar-photovoltaic-cell",
+   "fuente_nombre": "U.S. Department of Energy (Solar Energy Technologies Office)",
+   "verificado": true,
+   "cifra": {
+    "valor": "18–22 %",
+    "etiqueta": "eficiencia de los mejores paneles"
+   },
+   "pasos": [
+    "La luz llega a la celda de silicio",
+    "Le da energía a los electrones",
+    "La celda separa las cargas",
+    "Los electrones salen como corriente"
+   ]
+  },
+  {
+   "id": "P25",
+   "estilo": "pizarra",
+   "categoria": "Cielo y luz",
+   "gancho": "Por qué la Luna cambia de forma",
+   "dato": "El Sol siempre ilumina la mitad de la Luna; mientras la Luna gira alrededor de la Tierra, vemos una parte distinta de esa mitad. El ciclo se repite cada 29,5 días.",
+   "fuente_url": "https://science.nasa.gov/moon/moon-phases/",
+   "fuente_nombre": "NASA Science",
+   "verificado": true,
+   "cifra": {
+    "valor": "29,5 días",
+    "etiqueta": "ciclo de las fases"
+   },
+   "pasos": [
+    "El Sol ilumina media Luna siempre",
+    "La Luna gira alrededor de la Tierra",
+    "Vemos más o menos de la mitad iluminada",
+    "El ciclo se repite cada 29,5 días"
+   ]
+  },
+  {
+   "id": "P26",
+   "estilo": "pizarra",
+   "categoria": "Cielo y luz",
+   "gancho": "Qué enciende el cielo en una aurora",
+   "dato": "Electrones acelerados en la magnetosfera de la Tierra bajan siguiendo el campo magnético hacia los polos y chocan con el oxígeno y el nitrógeno del aire, entre 80 y 500 km de altura.",
+   "fuente_url": "https://www.spaceweather.gov/phenomena/aurora",
+   "fuente_nombre": "NOAA Space Weather Prediction Center",
+   "verificado": true,
+   "cifra": {
+    "valor": "80–500 km",
+    "etiqueta": "altura de la aurora"
+   },
+   "pasos": [
+    "Electrones se aceleran en la magnetosfera",
+    "Bajan siguiendo el campo magnético",
+    "Llegan a las zonas polares",
+    "Chocan con oxígeno y nitrógeno: brillan"
+   ]
+  },
+  {
+   "id": "P27",
+   "estilo": "pizarra",
+   "categoria": "Agua y clima",
+   "gancho": "El mar no se congela a cero grados",
+   "dato": "Por la sal, el agua de mar tiene que bajar a −1,8 °C para congelarse; al formarse el hielo, los cristales expulsan la sal al agua.",
+   "fuente_url": "https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice",
+   "fuente_nombre": "NSIDC (National Snow and Ice Data Center)",
+   "verificado": true,
+   "cifra": {
+    "valor": "−1,8 °C",
+    "etiqueta": "el mar se congela aquí"
+   },
+   "pasos": [
+    "El agua dulce se congela antes",
+    "La sal obliga a enfriarse más",
+    "El mar se congela a −1,8 °C",
+    "Los cristales de hielo expulsan la sal"
+   ]
+  },
+  {
+   "id": "P28",
+   "estilo": "pizarra",
+   "categoria": "Cielo y luz",
+   "gancho": "De dónde salen los colores de los fuegos artificiales",
+   "dato": "El calor excita los electrones de ciertos metales y estos emiten luz de un color: estroncio da rojo; cobre, azul; bario, verde, y sodio, amarillo.",
+   "fuente_url": "https://theconversation.com/red-white-but-rarely-blue-the-science-of-fireworks-colors-explained-119284",
+   "fuente_nombre": "The Conversation (Paul E. Smith, química, Purdue University)",
+   "verificado": true,
+   "cifra": {
+    "valor": "estroncio = rojo",
+    "etiqueta": "cada metal, un color"
+   },
+   "pasos": [
+    "La mezcla arde y libera energía",
+    "La energía excita electrones del metal",
+    "Cada metal emite su propio color",
+    "Estroncio rojo, bario verde, cobre azul"
+   ]
+  },
+  {
+   "id": "P29",
+   "estilo": "pizarra",
+   "categoria": "Física de todos los días",
+   "gancho": "Cómo un pararrayos protege un edificio",
+   "dato": "El pararrayos no evita el rayo: le da un camino de baja resistencia (punta, cable y toma de tierra) para que la corriente baje al suelo sin dañar el edificio. Franklin publicó cómo hacerlo en 1753.",
+   "fuente_url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-50-lightning-protection.pdf",
+   "fuente_nombre": "U.S. National Park Service, Preservation Brief 50",
+   "verificado": true,
+   "cifra": {
+    "valor": "3 partes",
+    "etiqueta": "punta, conductor y tierra"
+   },
+   "pasos": [
+    "El rayo cae en la punta",
+    "Baja por el cable conductor",
+    "Llega a la varilla en la tierra",
+    "La corriente se va sin dañar"
+   ]
+  },
+  {
+   "id": "P30",
+   "estilo": "pizarra",
+   "categoria": "Cielo y luz",
+   "gancho": "Por qué el atardecer se pone rojo",
+   "dato": "Cuando el Sol está bajo, su luz cruza más atmósfera hasta llegar a ti; el azul se dispersa todavía más y pasan directo a tus ojos los rojos y amarillos.",
+   "fuente_url": "https://spaceplace.nasa.gov/blue-sky/",
+   "fuente_nombre": "NASA Space Place",
+   "verificado": true,
+   "cifra": {
+    "valor": "más aire",
+    "etiqueta": "en el camino de la luz"
+   },
+   "pasos": [
+    "El Sol baja hacia el horizonte",
+    "Su luz cruza más atmósfera",
+    "El azul se dispersa por el camino",
+    "Llegan los rojos y amarillos"
+   ]
+  },
+  {
+   "id": "M1",
+   "estilo": "mapa",
+   "categoria": "Récords del planeta",
+   "gancho": "Ciudad de México se hunde casi 50 cm anuales",
+   "dato": "El suelo de la Ciudad de México se hunde a un ritmo de casi 50 cm por año. Se compacta el antiguo lecho del lago de Texcoco, y esa compactación es irreversible.",
+   "fuente_url": "https://eos.org/research-spotlights/the-looming-crisis-of-sinking-ground-in-mexico-city-spanish",
+   "fuente_nombre": "Eos (AGU), resumen de Chaussard et al., 2021, Journal of Geophysical Research: Solid Earth",
+   "verificado": true,
+   "cifra": {
+    "valor": "50 cm/año",
+    "etiqueta": "se hunde la ciudad"
+   },
+   "mapa": {
+    "centro": [
+     -99.13,
+     19.43
+    ],
+    "anchoKm": 300,
+    "paises": [
+     "484"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Ciudad de México",
+      "lon": -99.13,
+      "lat": 19.43,
+      "etiqueta": "Se hunde"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M2",
+   "estilo": "mapa",
+   "categoria": "Fronteras curiosas",
+   "gancho": "La frontera terrestre más larga del mundo",
+   "dato": "La frontera entre Canadá y Estados Unidos mide 8.891 km: es la frontera terrestre más larga entre dos países.",
+   "fuente_url": "https://www.internationalboundarycommission.org/en/about.php",
+   "fuente_nombre": "International Boundary Commission (Canadá–EE. UU.)",
+   "verificado": true,
+   "cifra": {
+    "valor": "8.891 km",
+    "etiqueta": "de frontera"
+   },
+   "mapa": {
+    "centro": [
+     -98,
+     52
+    ],
+    "anchoKm": 6500,
+    "paises": [
+     "840",
+     "124"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Paralelo 49",
+      "lon": -100,
+      "lat": 49,
+      "etiqueta": "Paralelo 49"
+     },
+     {
+      "nombre": "Meridiano 141 (Alaska–Yukón)",
+      "lon": -141,
+      "lat": 64,
+      "etiqueta": "Meridiano 141"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M3",
+   "estilo": "mapa",
+   "categoria": "Récords del planeta",
+   "gancho": "El lugar más lejano de cualquier tierra",
+   "dato": "El Punto Nemo, en el Pacífico Sur, está a unos 2.688 km de la tierra más cercana: la isla Ducie, el islote Motu Nui (Isla de Pascua) y la isla Maher, en la Antártida.",
+   "fuente_url": "https://oceanservice.noaa.gov/facts/nemo.html",
+   "fuente_nombre": "NOAA National Ocean Service",
+   "verificado": true,
+   "cifra": {
+    "valor": "2.688 km",
+    "etiqueta": "hasta la tierra más cercana"
+   },
+   "mapa": {
+    "centro": [
+     -120,
+     -45
+    ],
+    "anchoKm": 7000,
+    "paises": [],
+    "marcadores": [
+     {
+      "nombre": "Punto Nemo",
+      "lon": -123.39,
+      "lat": -48.88,
+      "etiqueta": "Punto Nemo"
+     },
+     {
+      "nombre": "Isla Ducie",
+      "lon": -124.79,
+      "lat": -24.67,
+      "etiqueta": "Isla Ducie"
+     },
+     {
+      "nombre": "Motu Nui",
+      "lon": -109.45,
+      "lat": -27.2,
+      "etiqueta": "Motu Nui"
+     },
+     {
+      "nombre": "Isla Maher",
+      "lon": -126.37,
+      "lat": -72.97,
+      "etiqueta": "Isla Maher"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M4",
+   "estilo": "mapa",
+   "categoria": "Récords del planeta",
+   "gancho": "La cima más cercana al espacio está en Ecuador",
+   "dato": "Como la Tierra es más ancha en el ecuador, la cima del Chimborazo está más de 2.072 m más lejos del centro del planeta que la del Everest.",
+   "fuente_url": "https://oceanservice.noaa.gov/facts/highestpoint.html",
+   "fuente_nombre": "NOAA National Ocean Service",
+   "verificado": true,
+   "cifra": {
+    "valor": "+2.072 m",
+    "etiqueta": "más lejos del centro que el Everest"
+   },
+   "mapa": {
+    "centro": [
+     -78.82,
+     -1.47
+    ],
+    "anchoKm": 2500,
+    "paises": [
+     "218"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Chimborazo",
+      "lon": -78.82,
+      "lat": -1.47,
+      "etiqueta": "Chimborazo"
+     },
+     {
+      "nombre": "Quito",
+      "lon": -78.47,
+      "lat": -0.18,
+      "etiqueta": "Quito"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M5",
+   "estilo": "mapa",
+   "categoria": "Fronteras curiosas",
+   "gancho": "Dos islas a 3,8 km: una vive en mañana",
+   "dato": "Solo 3,8 km separan la isla Diómedes Mayor (Rusia) de la Diómedes Menor (EE. UU.). Entre ellas pasan la frontera y la línea internacional de cambio de fecha.",
+   "fuente_url": "https://science.nasa.gov/earth/earth-observatory/yesterday-and-tomorrow-islands-91638/",
+   "fuente_nombre": "NASA Earth Observatory, «Yesterday and Tomorrow Islands» (2017)",
+   "verificado": true,
+   "cifra": {
+    "valor": "3,8 km",
+    "etiqueta": "entre hoy y mañana"
+   },
+   "mapa": {
+    "centro": [
+     -169,
+     65.77
+    ],
+    "anchoKm": 60,
+    "paises": [
+     "643",
+     "840"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Diómedes Mayor",
+      "lon": -169.06,
+      "lat": 65.78,
+      "etiqueta": "Rusia: mañana"
+     },
+     {
+      "nombre": "Diómedes Menor",
+      "lon": -168.93,
+      "lat": 65.75,
+      "etiqueta": "EE. UU.: hoy"
+     }
+    ],
+    "ruta": null,
+    "linea": {
+     "tipo": "meridiano",
+     "lon": -168.98
+    }
+   }
+  },
+  {
+   "id": "M6",
+   "estilo": "mapa",
+   "categoria": "Fronteras curiosas",
+   "gancho": "El país con más husos horarios no es Rusia",
+   "dato": "Gracias a sus territorios de ultramar, Francia tiene 12 husos horarios, y 13 durante parte del año por el horario de verano de San Pedro y Miquelón. Es el récord mundial.",
+   "fuente_url": "https://www.guinnessworldrecords.com/world-records/584626-country-with-the-most-time-zones",
+   "fuente_nombre": "Guinness World Records, «Country with the most time zones»",
+   "verificado": true,
+   "cifra": {
+    "valor": "12",
+    "etiqueta": "husos horarios"
+   },
+   "mapa": {
+    "centro": [
+     0,
+     10
+    ],
+    "anchoKm": 36000,
+    "paises": [
+     "250",
+     "540",
+     "258"
+    ],
+    "marcadores": [
+     {
+      "nombre": "París",
+      "lon": 2.35,
+      "lat": 48.86,
+      "etiqueta": "UTC+1"
+     },
+     {
+      "nombre": "Papeete (Polinesia Francesa)",
+      "lon": -149.57,
+      "lat": -17.54,
+      "etiqueta": "UTC−10"
+     },
+     {
+      "nombre": "Numea (Nueva Caledonia)",
+      "lon": 166.46,
+      "lat": -22.27,
+      "etiqueta": "UTC+11"
+     },
+     {
+      "nombre": "San Pedro y Miquelón",
+      "lon": -56.18,
+      "lat": 46.78,
+      "etiqueta": "Horario de verano"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M7",
+   "estilo": "mapa",
+   "categoria": "Sudamérica",
+   "gancho": "Chile: 4.270 km de largo, 177 de ancho",
+   "dato": "De norte a sur, Chile se extiende 4.270 km, pero en promedio mide solo 177 km de este a oeste.",
+   "fuente_url": "https://countrystudies.us/chile/36.htm",
+   "fuente_nombre": "Library of Congress, Country Studies: Chile (copia en countrystudies.us)",
+   "verificado": true,
+   "cifra": {
+    "valor": "4.270 km",
+    "etiqueta": "de norte a sur"
+   },
+   "mapa": {
+    "centro": [
+     -71,
+     -37
+    ],
+    "anchoKm": 3000,
+    "paises": [
+     "152"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Arica",
+      "lon": -70.31,
+      "lat": -18.48,
+      "etiqueta": "Norte"
+     },
+     {
+      "nombre": "Santiago",
+      "lon": -70.67,
+      "lat": -33.45,
+      "etiqueta": "Capital"
+     },
+     {
+      "nombre": "Punta Arenas",
+      "lon": -70.91,
+      "lat": -53.16,
+      "etiqueta": "Sur"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M8",
+   "estilo": "mapa",
+   "categoria": "Sudamérica",
+   "gancho": "La NASA ensaya Marte en un desierto chileno",
+   "dato": "La NASA llama a Atacama el lugar más seco y parecido a Marte de la Tierra, y prueba ahí robots que buscan vida. Aun así, Marte tiene mil veces menos agua.",
+   "fuente_url": "https://www.nasa.gov/feature/ames/ARADS-drill",
+   "fuente_nombre": "NASA Ames, proyecto ARADS (Atacama Rover Astrobiology Drilling Studies)",
+   "verificado": true,
+   "cifra": {
+    "valor": "1.000 veces",
+    "etiqueta": "menos agua tiene Marte"
+   },
+   "mapa": {
+    "centro": [
+     -69.5,
+     -24
+    ],
+    "anchoKm": 1500,
+    "paises": [
+     "152"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Desierto de Atacama",
+      "lon": -69.5,
+      "lat": -24.5,
+      "etiqueta": "Desierto de Atacama"
+     },
+     {
+      "nombre": "Antofagasta",
+      "lon": -70.4,
+      "lat": -23.65,
+      "etiqueta": "Antofagasta"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M9",
+   "estilo": "mapa",
+   "categoria": "Sudamérica",
+   "gancho": "La cascada más alta del mundo está en Venezuela",
+   "dato": "El Salto Ángel (Kerepakupai Merú) cae 979 m en total, con una caída ininterrumpida récord de 807 m. Está en el este de Venezuela.",
+   "fuente_url": "https://www.guinnessworldrecords.com/world-records/highest-waterfall",
+   "fuente_nombre": "Guinness World Records, «Tallest waterfall»",
+   "verificado": true,
+   "cifra": {
+    "valor": "979 m",
+    "etiqueta": "de caída total"
+   },
+   "mapa": {
+    "centro": [
+     -62.54,
+     5.97
+    ],
+    "anchoKm": 800,
+    "paises": [
+     "862"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Salto Ángel",
+      "lon": -62.54,
+      "lat": 5.97,
+      "etiqueta": "Salto Ángel"
+     },
+     {
+      "nombre": "Canaima",
+      "lon": -62.85,
+      "lat": 6.24,
+      "etiqueta": "Canaima"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M10",
+   "estilo": "mapa",
+   "categoria": "Sudamérica",
+   "gancho": "Barcos navegando a más de 3.800 metros de altura",
+   "dato": "El lago Titicaca, entre Perú y Bolivia, está a 3.812 m sobre el nivel del mar y es uno de los lagos navegables comercialmente más altos del mundo.",
+   "fuente_url": "https://science.nasa.gov/earth/earth-observatory/sunglint-on-lake-titicaca-89403",
+   "fuente_nombre": "NASA Earth Observatory, «Sunglint on Lake Titicaca»",
+   "verificado": true,
+   "cifra": {
+    "valor": "3.812 m",
+    "etiqueta": "sobre el nivel del mar"
+   },
+   "mapa": {
+    "centro": [
+     -69.4,
+     -15.9
+    ],
+    "anchoKm": 600,
+    "paises": [
+     "604",
+     "068"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Lago Titicaca",
+      "lon": -69.35,
+      "lat": -15.8,
+      "etiqueta": "Lago Titicaca"
+     },
+     {
+      "nombre": "Puno",
+      "lon": -70.02,
+      "lat": -15.84,
+      "etiqueta": "Puno"
+     },
+     {
+      "nombre": "Copacabana",
+      "lon": -69.09,
+      "lat": -16.17,
+      "etiqueta": "Copacabana"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M11",
+   "estilo": "mapa",
+   "categoria": "Récords del planeta",
+   "gancho": "El río que más agua le da al mar",
+   "dato": "La cuenca del Amazonas vierte al océano 6.789 km³ de agua por año: el 18 % de toda la descarga de los ríos del planeta.",
+   "fuente_url": "https://science.nasa.gov/earth/earth-observatory/global-accounting-of-earths-rivers-152742",
+   "fuente_nombre": "NASA Earth Observatory, «Global Accounting of Earth's Rivers» (2024)",
+   "verificado": true,
+   "cifra": {
+    "valor": "18 %",
+    "etiqueta": "del agua que los ríos llevan al mar"
+   },
+   "mapa": {
+    "centro": [
+     -60,
+     -3.5
+    ],
+    "anchoKm": 4500,
+    "paises": [
+     "076"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Manaos",
+      "lon": -60.02,
+      "lat": -3.12,
+      "etiqueta": "Manaos"
+     },
+     {
+      "nombre": "Desembocadura del Amazonas",
+      "lon": -50,
+      "lat": -0.2,
+      "etiqueta": "Desembocadura"
+     }
+    ],
+    "ruta": [
+     [
+      -73.25,
+      -3.75
+     ],
+     [
+      -69.94,
+      -4.21
+     ],
+     [
+      -65,
+      -3.3
+     ],
+     [
+      -60.02,
+      -3.12
+     ],
+     [
+      -54.71,
+      -2.44
+     ],
+     [
+      -51.5,
+      -1.2
+     ],
+     [
+      -50,
+      -0.2
+     ]
+    ],
+    "linea": null
+   }
+  },
+  {
+   "id": "M12",
+   "estilo": "mapa",
+   "categoria": "Sudamérica",
+   "gancho": "El país sudamericano con dos capitales",
+   "dato": "La Constitución de Bolivia dice: «Sucre es la Capital de Bolivia» (artículo 6). Pero el Gobierno funciona en La Paz.",
+   "fuente_url": "https://www.constituteproject.org/constitution/Bolivia_2009?lang=es",
+   "fuente_nombre": "Constitución Política del Estado Plurinacional de Bolivia (2009), art. 6 — Constitute Project",
+   "verificado": true,
+   "cifra": {
+    "valor": "Art. 6",
+    "etiqueta": "Sucre es la capital"
+   },
+   "mapa": {
+    "centro": [
+     -65.5,
+     -17
+    ],
+    "anchoKm": 1600,
+    "paises": [
+     "068"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Sucre",
+      "lon": -65.26,
+      "lat": -19.04,
+      "etiqueta": "Capital constitucional"
+     },
+     {
+      "nombre": "La Paz",
+      "lon": -68.15,
+      "lat": -16.5,
+      "etiqueta": "Sede de gobierno"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M13",
+   "estilo": "mapa",
+   "categoria": "Historia en el mapa",
+   "gancho": "Cómo Bolivia se quedó sin mar",
+   "dato": "Al independizarse, Bolivia tenía más de 400 km de costa en el Pacífico. Chile le declaró la guerra en 1879, y el tratado de 1904 dejó esa costa en manos chilenas.",
+   "fuente_url": "https://icj-cij.org/node/105706",
+   "fuente_nombre": "Corte Internacional de Justicia, resumen del fallo Bolivia c. Chile (1 de octubre de 2018)",
+   "verificado": true,
+   "cifra": {
+    "valor": "400 km",
+    "etiqueta": "de costa perdida"
+   },
+   "mapa": {
+    "centro": [
+     -68.5,
+     -21.5
+    ],
+    "anchoKm": 1500,
+    "paises": [
+     "068",
+     "152",
+     "604"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Antofagasta",
+      "lon": -70.4,
+      "lat": -23.65,
+      "etiqueta": "Antiguo litoral boliviano"
+     },
+     {
+      "nombre": "La Paz",
+      "lon": -68.15,
+      "lat": -16.5,
+      "etiqueta": "La Paz"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M14",
+   "estilo": "mapa",
+   "categoria": "Historia en el mapa",
+   "gancho": "80 km que cambiaron el comercio mundial",
+   "dato": "El Canal de Panamá mide unos 80 km del Atlántico al Pacífico. Sus esclusas suben los barcos hasta el lago Gatún, a 26 m sobre el mar, y cruzarlo toma de 8 a 10 horas.",
+   "fuente_url": "https://pancanal.com/preguntas-frecuentes/",
+   "fuente_nombre": "Autoridad del Canal de Panamá, preguntas frecuentes",
+   "verificado": true,
+   "cifra": {
+    "valor": "80 km",
+    "etiqueta": "de océano a océano"
+   },
+   "mapa": {
+    "centro": [
+     -79.72,
+     9.15
+    ],
+    "anchoKm": 120,
+    "paises": [
+     "591"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Colón",
+      "lon": -79.9,
+      "lat": 9.36,
+      "etiqueta": "Atlántico"
+     },
+     {
+      "nombre": "Lago Gatún",
+      "lon": -79.85,
+      "lat": 9.2,
+      "etiqueta": "Lago Gatún"
+     },
+     {
+      "nombre": "Ciudad de Panamá",
+      "lon": -79.52,
+      "lat": 8.98,
+      "etiqueta": "Pacífico"
+     }
+    ],
+    "ruta": [
+     [
+      -79.92,
+      9.38
+     ],
+     [
+      -79.92,
+      9.27
+     ],
+     [
+      -79.85,
+      9.17
+     ],
+     [
+      -79.69,
+      9.12
+     ],
+     [
+      -79.61,
+      9.02
+     ],
+     [
+      -79.59,
+      9
+     ],
+     [
+      -79.57,
+      8.95
+     ],
+     [
+      -79.55,
+      8.88
+     ]
+    ],
+    "linea": null
+   }
+  },
+  {
+   "id": "M15",
+   "estilo": "mapa",
+   "categoria": "Fronteras curiosas",
+   "gancho": "La isla que cambia de país cada seis meses",
+   "dato": "La Isla de los Faisanes, en el río Bidasoa, es española del 1 de febrero al 31 de julio y francesa del 1 de agosto al 31 de enero. Allí se firmó la Paz de los Pirineos en 1659.",
+   "fuente_url": "https://www.3cat.cat/3catinfo/per-que-lilla-dels-faisans-passa-aquest-1-de-febrer-de-ser-espanyola-a-ser-francesa/noticia/3391834/",
+   "fuente_nombre": "3Cat (Corporació Catalana de Mitjans Audiovisuals, medio público)",
+   "verificado": true,
+   "cifra": {
+    "valor": "6 meses",
+    "etiqueta": "en cada país"
+   },
+   "mapa": {
+    "centro": [
+     -1.77,
+     43.345
+    ],
+    "anchoKm": 15,
+    "paises": [
+     "724",
+     "250"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Isla de los Faisanes",
+      "lon": -1.77,
+      "lat": 43.34,
+      "etiqueta": "Los Faisanes"
+     },
+     {
+      "nombre": "Irún",
+      "lon": -1.79,
+      "lat": 43.34,
+      "etiqueta": "España"
+     },
+     {
+      "nombre": "Hendaya",
+      "lon": -1.77,
+      "lat": 43.36,
+      "etiqueta": "Francia"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M16",
+   "estilo": "mapa",
+   "categoria": "Historia en el mapa",
+   "gancho": "Una línea de 1494 partió Sudamérica en dos",
+   "dato": "El Tratado de Tordesillas, del 7 de junio de 1494, trazó una línea de polo a polo a 370 leguas al oeste de las islas de Cabo Verde, entre las coronas de Castilla y Portugal.",
+   "fuente_url": "https://www.unesco.org/en/memory-world/treaty-tordesillas",
+   "fuente_nombre": "UNESCO, Memoria del Mundo: Tratado de Tordesillas",
+   "verificado": true,
+   "cifra": {
+    "valor": "370 leguas",
+    "etiqueta": "al oeste de Cabo Verde"
+   },
+   "mapa": {
+    "centro": [
+     -35,
+     -5
+    ],
+    "anchoKm": 9000,
+    "paises": [
+     "076",
+     "620",
+     "724"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Cabo Verde",
+      "lon": -23.51,
+      "lat": 14.93,
+      "etiqueta": "Cabo Verde"
+     },
+     {
+      "nombre": "Tordesillas",
+      "lon": -5,
+      "lat": 41.52,
+      "etiqueta": "Tordesillas"
+     },
+     {
+      "nombre": "Belém",
+      "lon": -48.5,
+      "lat": -1.46,
+      "etiqueta": "Junto a línea"
+     }
+    ],
+    "ruta": null,
+    "linea": {
+     "tipo": "meridiano",
+     "lon": -46.62
+    }
+   }
+  },
+  {
+   "id": "M17",
+   "estilo": "mapa",
+   "categoria": "Historia en el mapa",
+   "gancho": "Primera vuelta al mundo: salieron 237, volvieron 18",
+   "dato": "La flota de Magallanes zarpó en 1519 con cinco naves y 237 hombres. En septiembre de 1522 solo volvió la Victoria, con 18 sobrevivientes.",
+   "fuente_url": "https://static-prod.lib.princeton.edu/visual_materials/maps/websites/pacific/magellan/magellan.html",
+   "fuente_nombre": "Princeton University Library, «Pacific Islands: Magellan»",
+   "verificado": true,
+   "cifra": {
+    "valor": "18 de 237",
+    "etiqueta": "volvieron vivos"
+   },
+   "mapa": {
+    "centro": [
+     -20,
+     0
+    ],
+    "anchoKm": 36000,
+    "paises": [],
+    "marcadores": [
+     {
+      "nombre": "Sanlúcar de Barrameda",
+      "lon": -6.35,
+      "lat": 36.78,
+      "etiqueta": "Salida y llegada"
+     },
+     {
+      "nombre": "Estrecho de Magallanes",
+      "lon": -70.9,
+      "lat": -53.5,
+      "etiqueta": "Estrecho"
+     },
+     {
+      "nombre": "Filipinas",
+      "lon": 123.97,
+      "lat": 10.31,
+      "etiqueta": "Filipinas"
+     }
+    ],
+    "ruta": [
+     [
+      -6.35,
+      36.78
+     ],
+     [
+      -15.4,
+      28.1
+     ],
+     [
+      -23.5,
+      14.9
+     ],
+     [
+      -43.17,
+      -22.91
+     ],
+     [
+      -58.4,
+      -34.9
+     ],
+     [
+      -67.72,
+      -49.31
+     ],
+     [
+      -70.9,
+      -53.5
+     ],
+     [
+      -75,
+      -52.5
+     ],
+     [
+      -110,
+      -30
+     ],
+     [
+      -150,
+      -10
+     ],
+     [
+      144.79,
+      13.44
+     ],
+     [
+      123.97,
+      10.31
+     ],
+     [
+      127.4,
+      0.68
+     ],
+     [
+      125,
+      -9
+     ],
+     [
+      105,
+      -20
+     ],
+     [
+      18.47,
+      -34.36
+     ],
+     [
+      -23.5,
+      14.9
+     ],
+     [
+      -6.35,
+      36.78
+     ]
+    ],
+    "linea": null
+   }
+  },
+  {
+   "id": "M18",
+   "estilo": "mapa",
+   "categoria": "Historia en el mapa",
+   "gancho": "Los incas construyeron unos 30.000 km de caminos",
+   "dato": "El Qhapaq Ñan, la red de caminos inca, suma unos 30.000 km y une seis países: Argentina, Bolivia, Chile, Colombia, Ecuador y Perú. Es Patrimonio Mundial desde 2014.",
+   "fuente_url": "https://andina.pe/agencia/galeria-qhapaq-nan-sistema-vial-andino-une-seis-paises-argentina-bolivia-colombia-chile-ecuador-y-peru-cumple-10-anos-declaratoria-como-patrimonio-mundial-22524.aspx",
+   "fuente_nombre": "Andina, Agencia Peruana de Noticias (estatal), con fotos de UNESCO Perú y Ministerio de Cultura (2024)",
+   "verificado": true,
+   "cifra": {
+    "valor": "30.000 km",
+    "etiqueta": "de caminos incas"
+   },
+   "mapa": {
+    "centro": [
+     -71,
+     -16
+    ],
+    "anchoKm": 4500,
+    "paises": [
+     "032",
+     "068",
+     "152",
+     "170",
+     "218",
+     "604"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Quito",
+      "lon": -78.47,
+      "lat": -0.18,
+      "etiqueta": "Quito"
+     },
+     {
+      "nombre": "Cusco",
+      "lon": -71.97,
+      "lat": -13.53,
+      "etiqueta": "Cusco, el centro"
+     },
+     {
+      "nombre": "Santiago",
+      "lon": -70.67,
+      "lat": -33.45,
+      "etiqueta": "Extremo sur"
+     }
+    ],
+    "ruta": [
+     [
+      -77.28,
+      1.21
+     ],
+     [
+      -78.47,
+      -0.18
+     ],
+     [
+      -79,
+      -2.9
+     ],
+     [
+      -78.51,
+      -7.16
+     ],
+     [
+      -76.8,
+      -9.87
+     ],
+     [
+      -71.97,
+      -13.53
+     ],
+     [
+      -70.02,
+      -15.84
+     ],
+     [
+      -68.67,
+      -16.55
+     ],
+     [
+      -65.35,
+      -23.2
+     ],
+     [
+      -65.41,
+      -24.79
+     ],
+     [
+      -68.83,
+      -32.89
+     ],
+     [
+      -70.67,
+      -33.45
+     ]
+    ],
+    "linea": null
+   }
+  },
+  {
+   "id": "M19",
+   "estilo": "mapa",
+   "categoria": "Historia en el mapa",
+   "gancho": "La ruta Acapulco–Manila duró casi 250 años",
+   "dato": "En 1565, Andrés de Urdaneta descubrió la ruta de regreso por el Pacífico. El Galeón de Manila unió Acapulco y Manila hasta 1815, cuando la guerra de independencia de México cortó el servicio.",
+   "fuente_url": "https://catedranaval.com/wp-content/uploads/2015/03/marzo2015_sabermas.pdf",
+   "fuente_nombre": "Armada Española, Órgano de Historia y Cultura Naval (Dra. Carmen Torres López), «El Galeón de Manila»",
+   "verificado": true,
+   "cifra": {
+    "valor": "1565–1815",
+    "etiqueta": "casi 250 años"
+   },
+   "mapa": {
+    "centro": [
+     -169.5,
+     22
+    ],
+    "anchoKm": 20000,
+    "paises": [
+     "484",
+     "608"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Acapulco",
+      "lon": -99.89,
+      "lat": 16.85,
+      "etiqueta": "Acapulco"
+     },
+     {
+      "nombre": "Manila",
+      "lon": 120.98,
+      "lat": 14.6,
+      "etiqueta": "Manila"
+     },
+     {
+      "nombre": "Guam",
+      "lon": 144.79,
+      "lat": 13.44,
+      "etiqueta": "Escala en Guam"
+     }
+    ],
+    "ruta": [
+     [
+      -99.89,
+      16.85
+     ],
+     [
+      -120,
+      13.5
+     ],
+     [
+      -150,
+      13
+     ],
+     [
+      180,
+      13
+     ],
+     [
+      144.79,
+      13.44
+     ],
+     [
+      124.25,
+      12.55
+     ],
+     [
+      120.98,
+      14.6
+     ],
+     [
+      135,
+      30
+     ],
+     [
+      160,
+      38
+     ],
+     [
+      -160,
+      40
+     ],
+     [
+      -130,
+      40
+     ],
+     [
+      -124.41,
+      40.44
+     ],
+     [
+      -115,
+      30
+     ],
+     [
+      -99.89,
+      16.85
+     ]
+    ],
+    "linea": null
+   }
+  },
+  {
+   "id": "M20",
+   "estilo": "mapa",
+   "categoria": "Sudamérica",
+   "gancho": "Una isla chilena a más de 3.500 km",
+   "dato": "Rapa Nui (Isla de Pascua) es chilena, pero está a más de 3.500 km de la costa de Sudamérica, en medio del Pacífico.",
+   "fuente_url": "https://www.esa.int/ESA_Multimedia/Images/2019/04/Easter_Island",
+   "fuente_nombre": "Agencia Espacial Europea (ESA), «Easter Island» (2019)",
+   "verificado": true,
+   "cifra": {
+    "valor": "+3.500 km",
+    "etiqueta": "de la costa"
+   },
+   "mapa": {
+    "centro": [
+     -90,
+     -30
+    ],
+    "anchoKm": 5000,
+    "paises": [
+     "152"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Rapa Nui",
+      "lon": -109.35,
+      "lat": -27.11,
+      "etiqueta": "Rapa Nui"
+     },
+     {
+      "nombre": "Valparaíso",
+      "lon": -71.62,
+      "lat": -33.05,
+      "etiqueta": "Chile continental"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M21",
+   "estilo": "mapa",
+   "categoria": "Récords del planeta",
+   "gancho": "La isla habitada más remota del planeta",
+   "dato": "Tristán de Acuña, en el Atlántico Sur, está a 2.435 km de Santa Elena, su vecina habitada más cercana.",
+   "fuente_url": "https://www.guinnessworldrecords.com/world-records/66683-most-remote-inhabited-island",
+   "fuente_nombre": "Guinness World Records, «Most remote inhabited island»",
+   "verificado": true,
+   "cifra": {
+    "valor": "2.435 km",
+    "etiqueta": "hasta sus vecinos"
+   },
+   "mapa": {
+    "centro": [
+     -5,
+     -27
+    ],
+    "anchoKm": 6000,
+    "paises": [],
+    "marcadores": [
+     {
+      "nombre": "Tristán de Acuña",
+      "lon": -12.31,
+      "lat": -37.07,
+      "etiqueta": "Tristán de Acuña"
+     },
+     {
+      "nombre": "Santa Elena",
+      "lon": -5.72,
+      "lat": -15.92,
+      "etiqueta": "Santa Elena"
+     },
+     {
+      "nombre": "Ciudad del Cabo",
+      "lon": 18.42,
+      "lat": -33.92,
+      "etiqueta": "Ciudad del Cabo"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M22",
+   "estilo": "mapa",
+   "categoria": "Fronteras curiosas",
+   "gancho": "La frontera terrestre más larga de Francia: con Brasil",
+   "dato": "Por la Guayana Francesa, Francia y Brasil comparten más de 730 km de frontera: es la frontera terrestre más larga de Francia.",
+   "fuente_url": "https://www.senat.fr/rap/r22-846/r22-84621.html",
+   "fuente_nombre": "Senado de Francia, informe r22-846",
+   "verificado": true,
+   "cifra": {
+    "valor": "+730 km",
+    "etiqueta": "de frontera con Brasil"
+   },
+   "mapa": {
+    "centro": [
+     -53,
+     3.5
+    ],
+    "anchoKm": 900,
+    "paises": [
+     "250",
+     "076"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Cayena",
+      "lon": -52.33,
+      "lat": 4.92,
+      "etiqueta": "Cayena"
+     },
+     {
+      "nombre": "Saint-Georges-de-l'Oyapock",
+      "lon": -51.81,
+      "lat": 3.89,
+      "etiqueta": "Río Oyapock"
+     },
+     {
+      "nombre": "Oiapoque",
+      "lon": -51.83,
+      "lat": 3.84,
+      "etiqueta": "Brasil"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M23",
+   "estilo": "mapa",
+   "categoria": "Sudamérica",
+   "gancho": "El salar más grande del mundo está en Bolivia",
+   "dato": "El Salar de Uyuni, en el altiplano boliviano, cubre 10.582 km²: es el salar más grande del mundo.",
+   "fuente_url": "https://science.nasa.gov/earth/earth-observatory/an-expanse-of-white-in-bolivia-84853/",
+   "fuente_nombre": "NASA Earth Observatory, «An Expanse of White in Bolivia»",
+   "verificado": true,
+   "cifra": {
+    "valor": "10.582 km²",
+    "etiqueta": "de sal"
+   },
+   "mapa": {
+    "centro": [
+     -67.6,
+     -20.2
+    ],
+    "anchoKm": 400,
+    "paises": [
+     "068"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Salar de Uyuni",
+      "lon": -67.6,
+      "lat": -20.2,
+      "etiqueta": "Salar de Uyuni"
+     },
+     {
+      "nombre": "Uyuni",
+      "lon": -66.82,
+      "lat": -20.46,
+      "etiqueta": "Uyuni"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M24",
+   "estilo": "mapa",
+   "categoria": "Récords del planeta",
+   "gancho": "El punto más bajo en tierra firme",
+   "dato": "La superficie del mar Muerto está unos 436 m bajo el nivel del mar, y sigue bajando más de un metro por año.",
+   "fuente_url": "https://www.guinnessworldrecords.com/world-records/85777-lowest-body-of-water-exposed",
+   "fuente_nombre": "Guinness World Records, «Lowest body of water exposed» (2022)",
+   "verificado": true,
+   "cifra": {
+    "valor": "−436 m",
+    "etiqueta": "bajo el nivel del mar"
+   },
+   "mapa": {
+    "centro": [
+     35.5,
+     31.5
+    ],
+    "anchoKm": 300,
+    "paises": [],
+    "marcadores": [
+     {
+      "nombre": "Mar Muerto",
+      "lon": 35.5,
+      "lat": 31.5,
+      "etiqueta": "Mar Muerto"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M25",
+   "estilo": "mapa",
+   "categoria": "Récords del planeta",
+   "gancho": "El Everest cabe en esta fosa y sobra espacio",
+   "dato": "La fosa Challenger, en las Marianas, tiene unos 10.935 m de profundidad. Si pusieras ahí el Everest (8.848 m), su cima quedaría a más de 2 km bajo el agua.",
+   "fuente_url": "https://oceanservice.noaa.gov/facts/oceandepth.html",
+   "fuente_nombre": "NOAA National Ocean Service",
+   "verificado": true,
+   "cifra": {
+    "valor": "10.935 m",
+    "etiqueta": "de profundidad"
+   },
+   "mapa": {
+    "centro": [
+     142.59,
+     11.37
+    ],
+    "anchoKm": 1500,
+    "paises": [],
+    "marcadores": [
+     {
+      "nombre": "Abismo Challenger",
+      "lon": 142.59,
+      "lat": 11.37,
+      "etiqueta": "Fosa Challenger"
+     },
+     {
+      "nombre": "Guam",
+      "lon": 144.79,
+      "lat": 13.44,
+      "etiqueta": "Guam"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M26",
+   "estilo": "mapa",
+   "categoria": "Récords del planeta",
+   "gancho": "Hay una montaña más alta que el Everest",
+   "dato": "Medido desde su base, en el fondo del océano, el Mauna Kea (Hawái) se eleva más de 10.210 m. El Everest, el más alto sobre el nivel del mar, llega a 8.848 m.",
+   "fuente_url": "https://oceanservice.noaa.gov/facts/highestpoint.html",
+   "fuente_nombre": "NOAA National Ocean Service",
+   "verificado": true,
+   "cifra": {
+    "valor": "+10.210 m",
+    "etiqueta": "de la base a la cima"
+   },
+   "mapa": {
+    "centro": [
+     -155.47,
+     19.82
+    ],
+    "anchoKm": 300,
+    "paises": [
+     "840"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Mauna Kea",
+      "lon": -155.47,
+      "lat": 19.82,
+      "etiqueta": "Mauna Kea"
+     },
+     {
+      "nombre": "Hilo",
+      "lon": -155.09,
+      "lat": 19.72,
+      "etiqueta": "Hilo"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M27",
+   "estilo": "mapa",
+   "categoria": "Sudamérica",
+   "gancho": "En tu mapa, Groenlandia parece tan grande como Sudamérica",
+   "dato": "La proyección Mercator estira las zonas cercanas a los polos: dibuja a Groenlandia más grande que Sudamérica, aunque en realidad tiene menos de un octavo de su superficie.",
+   "fuente_url": "https://etc.usf.edu/maps/pages/8000/8042/8042.htm",
+   "fuente_nombre": "University of South Florida, Florida Center for Instructional Technology (Maps ETC), «Mercator's Projection of the World» (Hinman, 1909)",
+   "verificado": true,
+   "cifra": {
+    "valor": "+8 veces",
+    "etiqueta": "más grande es Sudamérica"
+   },
+   "mapa": {
+    "centro": [
+     -50,
+     25
+    ],
+    "anchoKm": 14000,
+    "paises": [
+     "304",
+     "032",
+     "068",
+     "076",
+     "152",
+     "170",
+     "218",
+     "328",
+     "600",
+     "604",
+     "740",
+     "858",
+     "862"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Groenlandia",
+      "lon": -42,
+      "lat": 72,
+      "etiqueta": "Groenlandia"
+     },
+     {
+      "nombre": "Sudamérica",
+      "lon": -60,
+      "lat": -15,
+      "etiqueta": "Sudamérica"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M28",
+   "estilo": "mapa",
+   "categoria": "Fronteras curiosas",
+   "gancho": "Brasil limita con casi toda Sudamérica",
+   "dato": "Brasil limita con 9 países de Sudamérica y con la Guayana Francesa (Francia). Los únicos sudamericanos que no tocan Brasil son Chile y Ecuador.",
+   "fuente_url": "https://countrystudies.us/brazil/20.htm",
+   "fuente_nombre": "Library of Congress, Country Studies: Brazil (copia en countrystudies.us)",
+   "verificado": true,
+   "cifra": {
+    "valor": "10",
+    "etiqueta": "vecinos de Brasil"
+   },
+   "mapa": {
+    "centro": [
+     -60,
+     -15
+    ],
+    "anchoKm": 6000,
+    "paises": [
+     "076",
+     "032",
+     "068",
+     "170",
+     "328",
+     "600",
+     "604",
+     "740",
+     "858",
+     "862",
+     "250"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Chile",
+      "lon": -71,
+      "lat": -35,
+      "etiqueta": "Sin frontera"
+     },
+     {
+      "nombre": "Ecuador",
+      "lon": -78.5,
+      "lat": -1.5,
+      "etiqueta": "Sin frontera"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M29",
+   "estilo": "mapa",
+   "categoria": "Récords del planeta",
+   "gancho": "El lugar con más rayos del planeta",
+   "dato": "Según 16 años de datos satelitales, el lago de Maracaibo, en Venezuela, recibe unos 233 rayos por km² al año, con tormentas casi 300 noches por año.",
+   "fuente_url": "https://www.nasa.gov/centers-and-facilities/marshall/earths-new-lightning-capital-revealed/",
+   "fuente_nombre": "NASA Marshall, «Earth's New Lightning Capital Revealed» (estudio en el Bulletin of the American Meteorological Society, 2016)",
+   "verificado": true,
+   "cifra": {
+    "valor": "233",
+    "etiqueta": "rayos por km² al año"
+   },
+   "mapa": {
+    "centro": [
+     -71.6,
+     9.8
+    ],
+    "anchoKm": 400,
+    "paises": [
+     "862"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Lago de Maracaibo",
+      "lon": -71.6,
+      "lat": 9.8,
+      "etiqueta": "Lago de Maracaibo"
+     },
+     {
+      "nombre": "Maracaibo",
+      "lon": -71.64,
+      "lat": 10.65,
+      "etiqueta": "Maracaibo"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  },
+  {
+   "id": "M30",
+   "estilo": "mapa",
+   "categoria": "Sudamérica",
+   "gancho": "La cumbre más alta fuera de Asia es argentina",
+   "dato": "El Aconcagua, en Mendoza, mide 6.962 m hasta su cumbre norte. Es la segunda de las Siete Cumbres, las más altas de cada continente, y solo la supera el Everest.",
+   "fuente_url": "https://science.nasa.gov/earth/earth-observatory/cerro-aconcagua-3542",
+   "fuente_nombre": "NASA Earth Observatory, «Cerro Aconcagua»",
+   "verificado": true,
+   "cifra": {
+    "valor": "6.962 m",
+    "etiqueta": "de altura"
+   },
+   "mapa": {
+    "centro": [
+     -70.01,
+     -32.65
+    ],
+    "anchoKm": 400,
+    "paises": [
+     "032",
+     "152"
+    ],
+    "marcadores": [
+     {
+      "nombre": "Aconcagua",
+      "lon": -70.01,
+      "lat": -32.65,
+      "etiqueta": "Aconcagua"
+     },
+     {
+      "nombre": "Mendoza",
+      "lon": -68.83,
+      "lat": -32.89,
+      "etiqueta": "Mendoza"
+     },
+     {
+      "nombre": "Santiago",
+      "lon": -70.67,
+      "lat": -33.45,
+      "etiqueta": "Santiago"
+     }
+    ],
+    "ruta": null,
+    "linea": null
+   }
+  }
+ ]
+}
