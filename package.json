@@ -1,0 +1,42 @@
+{
+  "name": "plantilla-shorts",
+  "version": "1.0.0",
+  "description": "Plantilla para crear YouTube Shorts animados con Claude y Remotion",
+  "private": true,
+  "license": "SEE LICENSE IN LICENCIA.md",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "panel": "node panel/servidor.mjs",
+    "estudio": "remotion studio estilos/index.ts",
+    "entorno": "node scripts/revisar-entorno.mjs",
+    "render": "node scripts/render.mjs",
+    "qa:subs": "node scripts/qa-subs.mjs",
+    "qa:retencion": "node scripts/qa-retencion.mjs",
+    "tipos": "tsc"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.541",
+    "@remotion/cli": "4.0.541",
+    "@remotion/google-fonts": "4.0.541",
+    "@remotion/install-whisper-cpp": "4.0.541",
+    "@remotion/media": "4.0.541",
+    "@remotion/renderer": "4.0.541",
+    "d3-geo": "3.1.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.541",
+    "topojson-client": "3.1.0",
+    "world-atlas": "2.0.2"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "3.1.0",
+    "@types/react": "19.3.0",
+    "@types/topojson-client": "3.1.5",
+    "typescript": "5.9.3"
+  },
+  "allowScripts": {
+    "esbuild": false
+  }
+}

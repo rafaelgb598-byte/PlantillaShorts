@@ -1,0 +1,15 @@
+node_modules/
+.env
+trabajo/
+public/trabajo/
+Shorts listos/*
+!Shorts listos/.gitkeep
+Pon aquí tu voz/*
+!Pon aquí tu voz/.gitkeep
+!Pon aquí tu voz/LEEME.txt
+.whisper/
+out/
+*.log
+.DS_Store
+Thumbs.db
+_entrega/
