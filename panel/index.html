@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Plantilla Shorts · Panel</title>
+    <link rel="icon" href="icono.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="estilo.css" />
+  </head>
+  <body>
+    <header class="barra">
+      <div class="marca">
+        <img src="icono.svg" alt="" width="34" height="34" />
+        <span>Plantilla Shorts</span>
+        <span class="chip">versión gratis</span>
+      </div>
+      <nav class="pestanas" role="tablist">
+        <button class="pestana activa" data-pestana="crear" role="tab" aria-selected="true">Crear short</button>
+        <button class="pestana" data-pestana="pro" role="tab" aria-selected="false">Pro</button>
+      </nav>
+    </header>
+
+    <main id="crear" class="vista">
+      <section class="paso" id="paso-estilo">
+        <div class="paso-cabeza"><span class="numero">1</span><h2>Elige el estilo</h2></div>
+        <div class="estilos" id="estilos"></div>
+      </section>
+
+      <section class="paso bloqueado" id="paso-tema">
+        <div class="paso-cabeza">
+          <span class="numero">2</span>
+          <h2>Elige el tema</h2>
+          <span class="ayuda" id="cuenta-temas"></span>
+        </div>
+        <div class="filtros">
+          <input id="buscar" type="search" placeholder="Busca: luna, dinero, Chile, rayo…" autocomplete="off" />
+          <div class="categorias" id="categorias"></div>
+        </div>
+        <div class="temas" id="temas"></div>
+      </section>
+
+      <section class="paso bloqueado" id="paso-voz">
+        <div class="paso-cabeza"><span class="numero">3</span><h2>Elige la voz</h2></div>
+        <div class="voces">
+          <label class="opcion-voz elegida" data-voz="mp3">
+            <input type="radio" name="voz" value="mp3" checked />
+            <span class="insignia">Recomendada</span>
+            <strong>Subir mi grabación (mp3)</strong>
+            <span>Claude te muestra el guion, lo grabas con tu celular o tu computadora y pones el archivo en la carpeta <b>«Pon aquí tu voz»</b>. Tu voz, tus tiempos.</span>
+          </label>
+          <label class="opcion-voz" data-voz="elevenlabs">
+            <input type="radio" name="voz" value="elevenlabs" />
+            <strong>Usar ElevenLabs (pegar API key)</strong>
+            <span>Con tu propia cuenta de ElevenLabs. La clave se guarda solo en tu computadora, en el archivo <code>.env</code>.</span>
+          </label>
+        </div>
+        <div class="elevenlabs oculto" id="elevenlabs">
+          <div class="fila">
+            <input id="clave" type="password" placeholder="Pega aquí tu API key de ElevenLabs" autocomplete="off" spellcheck="false" />
+            <button class="secundario" id="guardar-clave">Guardar clave</button>
+          </div>
+          <p class="mensaje" id="mensaje-clave"></p>
+          <div class="fila oculto" id="fila-voces">
+            <label for="voz-el">Voz:</label>
+            <select id="voz-el"></select>
+          </div>
+        </div>
+      </section>
+
+      <section class="crear">
+        <div class="resumen" id="resumen">Elige un estilo para empezar.</div>
+        <button class="principal" id="crear-short" disabled>Crear short</button>
+      </section>
+    </main>
+
+    <main id="listo" class="vista oculto">
+      <div class="listo">
+        <div class="tilde">✓</div>
+        <h2>¡Pedido enviado!</h2>
+        <p>Vuelve a la ventana de Claude: ya está escribiendo el guion de tu short. Te lo va a mostrar para que lo apruebes.</p>
+        <p class="detalle" id="detalle-pedido"></p>
+        <button class="secundario" id="otro">Elegir otro</button>
+      </div>
+    </main>
+
+    <main id="pro" class="vista oculto">
+      <section class="pro-cabeza">
+        <h2>Plantilla Shorts Pro</h2>
+        <p>La versión gratis trae 3 estilos y 90 temas verificados. La Pro suma esto:</p>
+      </section>
+      <div class="pro-estilos" id="pro-estilos"></div>
+      <ul class="pro-lista">
+        <li><b>Voz automática:</b> el short sale con voz sin que tengas que grabar ni pegar claves.</li>
+        <li><b>Tandas de varios videos:</b> eliges varios temas y Claude los hace uno detrás de otro.</li>
+        <li><b>Generador de temas para cualquier nicho:</b> le dices tu nicho y te propone temas nuevos con su fuente.</li>
+        <li><b>Estilos extra:</b> los de arriba, con la misma calidad de animación.</li>
+      </ul>
+      <a class="principal enlace" href="{{URL_PRO}}" target="_blank" rel="noopener">Conocer la versión Pro</a>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
