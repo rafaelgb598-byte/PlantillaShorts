@@ -1,0 +1,7 @@
+Pon aquí la grabación de tu guion (mp3, m4a o wav).
+
+Consejos para que suene bien:
+- Graba en un lugar sin eco ni ruido (un cuarto con ropa o cortinas funciona mejor que un baño).
+- Celular a un palmo de la boca, de costado para que no sople.
+- Lee a tu velocidad natural. Si te equivocas, repite la frase: Claude usa tu grabación tal cual, así que mejor una toma limpia.
+- No hace falta que borres los silencios del principio y del final: se recortan solos.
